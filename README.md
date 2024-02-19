@@ -4,7 +4,6 @@
 
 - Equipe:
   Gabriel Henrique,
-  Maria Eduarda,
   Thiago Marques,
   Thiago Augusto,
   Pedro Augusto.
